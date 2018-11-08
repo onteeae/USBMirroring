@@ -1,0 +1,7 @@
+16:58:08 **** Build of configuration Debug for project Service ****
+ninja all 
+[1/2] Building src/service.o
+[2/2] Linking service
+16:58:30 **** Incremental Build of configuration Debug for project Service ****
+ninja all 
+ninja: no work to do.

@@ -1,0 +1,6 @@
+16:58:30 **** Incremental Build of configuration Debug for project Service ****
+ninja all 
+ninja: no work to do.
+
+16:58:30 Build Finished (took 114ms)
+

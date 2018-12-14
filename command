@@ -19,3 +19,4 @@ ffmpeg -f x11grab -s 1920x1200 -framerate 15 -i :0.0 -c:v libx264 -preset fast -
 ./ffmpeg -f video4linux2 -s 640x480 -r 15 -vcodec h264 -i /dev/video1 -an http://localhost:8099/feed1.ffm
 
 vlc v4l2:///dev/video1
+
